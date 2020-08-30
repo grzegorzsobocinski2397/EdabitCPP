@@ -1,2 +1,2 @@
 # EdabitCPP
-C++ exercises from edabit.com website
+C++ exercises from edabit.com website.
